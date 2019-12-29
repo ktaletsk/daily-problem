@@ -8,3 +8,4 @@ Feel free to open PRs with solutions in other languages
 | 2019-12-26 | [Jump to the End](191226/PROBLEM.md) | [Python](191226/Python/solution.py) |
 | 2019-12-27 | [H-Index](191227/PROBLEM.md) | [Python](191227/Python/solution.py) |
 | 2019-12-28 | [Symmetric k-ary Tree](191228/PROBLEM.md) | [Python](191228/Python/solution.py) |
+| 2019-12-29 | [Max and Min with Limited Comparisons](191229/PROBLEM.md) | [Python](191229/Python/solution.py) |
