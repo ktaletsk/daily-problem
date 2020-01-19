@@ -5,7 +5,7 @@ Feel free to open PRs with solutions in other languages
 | Date       | Problem       | Solutions |
 |------------|---------------|-----------|
 | 2020-01-19 | [Top K Frequent words](200119/PROBLEM.md) | |
-| 2020-01-18 | [Detect Linked List Cycle](200118/PROBLEM.md) | |
+| 2020-01-18 | [Detect Linked List Cycle](200118/PROBLEM.md) | [Python](200118/Python/solution.py) |
 | 2020-01-17 | [Plus One](200117/PROBLEM.md) | |
 | 2020-01-16 | [Find Missing Numbers in an Array](200116/PROBLEM.md) | |
 | 2020-01-15 | [Binary Tree Level with Minimum Sum](200115/PROBLEM.md) | |
