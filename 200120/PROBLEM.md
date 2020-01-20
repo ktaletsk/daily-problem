@@ -41,6 +41,7 @@ board.move(2, 1, 1); -> Returns 1 (player 1 wins)
 ```
 
 Here's a starting point:
+```
 class TicTacToe(object):
     def __init__(self, n):
         # Fill this in.
@@ -56,3 +57,4 @@ board.move(1, 1, 2)
 board.move(2, 0, 1)
 board.move(1, 0, 2)
 print(board.move(2, 1, 1))
+```
