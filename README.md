@@ -9,7 +9,7 @@ Feel free to open PRs with solutions in other languages
 | 2020-01-18 | [Detect Linked List Cycle](200118/PROBLEM.md) | Python ([ver. 1](200118/Python/solution_hash.py), [ver. 2](200118/Python/solution_floyd.py)) |
 | 2020-01-17 | [Plus One](200117/PROBLEM.md) | [Python](200117/Python/solution.py) |
 | 2020-01-16 | [Find Missing Numbers in an Array](200116/PROBLEM.md) | [Python](200116/Python/solution.py) |
-| 2020-01-15 | [Binary Tree Level with Minimum Sum](200115/PROBLEM.md) | |
+| 2020-01-15 | [Binary Tree Level with Minimum Sum](200115/PROBLEM.md) | [Python](200115/Python/solution.py) |
 | 2020-01-14 | [Lowest Common Ancestor of 2 Nodes in Binary Tree](200114/PROBLEM.md) | |
 | 2020-01-13 | [Shifted String](200113/PROBLEM.md) | |
 | 2020-01-12 | [Level Order Traversal of Binary Tree](200112/PROBLEM.md) | |
