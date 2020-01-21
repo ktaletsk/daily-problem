@@ -11,7 +11,7 @@ Feel free to open PRs with solutions in other languages
 | 2020-01-16 | [Find Missing Numbers in an Array](200116/PROBLEM.md) | [Python](200116/Python/solution.py) |
 | 2020-01-15 | [Binary Tree Level with Minimum Sum](200115/PROBLEM.md) | [Python](200115/Python/solution.py) |
 | 2020-01-14 | [Lowest Common Ancestor of 2 Nodes in Binary Tree](200114/PROBLEM.md) | [Python](200114/Python/solution.py) |
-| 2020-01-13 | [Shifted String](200113/PROBLEM.md) | |
+| 2020-01-13 | [Shifted String](200113/PROBLEM.md) | [Python](200113/Python/solution.py) |
 | 2020-01-12 | [Level Order Traversal of Binary Tree](200112/PROBLEM.md) | |
 | 2020-01-11 | [Determine If Linked List is Palindrome](200111/PROBLEM.md) | Python (Part [1](200111/Python/solution_doubly_linked.py), [2](200111/Python/solution_single_linked.py)) |
 | 2020-01-10 | [Subarray With Target Sum](200110/PROBLEM.md) | |
