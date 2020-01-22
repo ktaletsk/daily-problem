@@ -15,7 +15,7 @@ Feel free to open PRs with solutions in other languages
 | 2020-01-12 | [Level Order Traversal of Binary Tree](200112/PROBLEM.md) | [Python](200112/Python/solution.py) |
 | 2020-01-11 | [Determine If Linked List is Palindrome](200111/PROBLEM.md) | Python (Part [1](200111/Python/solution_doubly_linked.py), [2](200111/Python/solution_single_linked.py)) |
 | 2020-01-10 | [Subarray With Target Sum](200110/PROBLEM.md) | |
-| 2020-01-09 | [Longest Consecutive Sequence](200109/PROBLEM.md) | |
+| 2020-01-09 | [Longest Consecutive Sequence](200109/PROBLEM.md) | [Python](200109/Python/solution.py) |
 | 2020-01-08 | [Permutations of numbers](200108/PROBLEM.md) | |
 | 2020-01-07 | [Maximum Path Sum in Binary Tree](200107/PROBLEM.md) | |
 | 2020-01-06 | [Smallest Number that is not a Sum of a Subset of List](200106/PROBLEM.md) | |
