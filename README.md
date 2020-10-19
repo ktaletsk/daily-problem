@@ -1,4 +1,4 @@
-# My solutions to the problems from Daily Problem mailing list
+# My solutions to the LeetCode problems
 
 Feel free to open PRs with solutions in other languages
 
