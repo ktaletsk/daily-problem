@@ -2,9 +2,9 @@
 
 Feel free to open PRs with solutions in other languages
 
-| Date       | Problem       | Solutions |
+| Number/Data       | Problem       | Solutions |
 |------------|---------------|-----------|
-| 2020-01-21 | [Absolute Path](200121/PROBLEM.md) | [Python](200121/Python/solution.py) |
+| 71 | [Absolute Path](200121/PROBLEM.md) | [Python](200121/Python/solution.py) |
 | 2020-01-20 | [Design Tic-Tac-Toe](200120/PROBLEM.md) | [Python](200120/Python/solution.py) |
 | 2020-01-19 | [Top K Frequent words](200119/PROBLEM.md) | [Python](200119/Python/solution.py) |
 | 2020-01-18 | [Detect Linked List Cycle](200118/PROBLEM.md) | Python ([ver. 1](200118/Python/solution_hash.py), [ver. 2](200118/Python/solution_floyd.py)) |
